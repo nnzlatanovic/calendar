@@ -10,42 +10,50 @@
             },
             {   
                 "tip" : "Liturgija",
-                "dan":"1",
-                "nazivDana": "Ponedeljak",
-                "datum" : "01.10.2023",
-                "praznik" : "Свети Евменије Гортински; света мученица Ариадна",
+                "dan":"2",
+                "nazivDana": "Utorak",
+                "datum" : "02.10.2023",
+                "praznik" : "Свети мученици Трофим, Саватије и Доримедонт",
+                "vreme" : "7:30"
+            },
+            {   
+                "tip" : "Liturgija",
+                "dan":"3",
+                "nazivDana": "Sreda",
+                "datum" : "03.10.2023",
+                "praznik" : "Свети великомученик Јевстатије",
+                "vreme" : "7:30"
+            },
+            {   
+                "tip" : "Liturgija",
+                "dan":"4",
+                "nazivDana": "Cetvrtak",
+                "datum" : "04.10.2023",
+                "praznik" : "Свети свештеномученик Фока; Свети пророк Јона",
+                "vreme" : "7:30"
+            },
+            {   
+                "tip" : "Liturgija",
+                "dan":"5",
+                "nazivDana": "Petak",
+                "datum" : "05.10.2023",
+                "praznik" : "Зачеће светог Јована Претече и Крститеља",
                 "vreme" : "9:00"
             },
             {   
                 "tip" : "Liturgija",
-                "dan":"1",
-                "nazivDana": "Ponedeljak",
-                "datum" : "01.10.2023",
-                "praznik" : "Свети Евменије Гортински; света мученица Ариадна",
+                "dan":"6",
+                "nazivDana": "Subota",
+                "datum" : "06.10.2023",
+                "praznik" : "Св. првомуч. Текла; препод. Симон; – Задушнице",
                 "vreme" : "9:00"
             },
             {   
                 "tip" : "Liturgija",
-                "dan":"1",
-                "nazivDana": "Ponedeljak",
-                "datum" : "01.10.2023",
-                "praznik" : "Свети Евменије Гортински; света мученица Ариадна",
-                "vreme" : "9:00"
-            },
-            {   
-                "tip" : "Liturgija",
-                "dan":"1",
-                "nazivDana": "Ponedeljak",
-                "datum" : "01.10.2023",
-                "praznik" : "Свети Евменије Гортински; света мученица Ариадна",
-                "vreme" : "9:00"
-            },
-            {   
-                "tip" : "Liturgija",
-                "dan":"1",
-                "nazivDana": "Ponedeljak",
-                "datum" : "01.10.2023",
-                "praznik" : "Свети Евменије Гортински; света мученица Ариадна",
+                "dan":"7",
+                "nazivDana": "Nedelja",
+                "datum" : "07.10.2023",
+                "praznik" : "Преподобна Ефросинија; Свети Сергије Радоњешки",
                 "vreme" : "9:00"
             }
         ]
