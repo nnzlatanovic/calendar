@@ -2,36 +2,48 @@
     "oktobar":{
         "data" : [
             {   "tip" : "Liturgija",
+                "dan":"1",
+                "nazivDana": "Ponedeljak",
                 "datum" : "01.10.2023",
                 "praznik" : "Свети Евменије Гортински; света мученица Ариадна",
                 "vreme" : "9:00"
             },
-            {   "tip" : "Liturgija",
+            {   
+                "tip" : "Liturgija",
+                "dan":"1",
+                "nazivDana": "Ponedeljak",
                 "datum" : "01.10.2023",
                 "praznik" : "Свети Евменије Гортински; света мученица Ариадна",
                 "vreme" : "9:00"
             },
-            {   "tip" : "Liturgija",
+            {   
+                "tip" : "Liturgija",
+                "dan":"1",
+                "nazivDana": "Ponedeljak",
                 "datum" : "01.10.2023",
                 "praznik" : "Свети Евменије Гортински; света мученица Ариадна",
                 "vreme" : "9:00"
             },
-            {   "tip" : "Liturgija",
+            {   
+                "tip" : "Liturgija",
+                "dan":"1",
+                "nazivDana": "Ponedeljak",
                 "datum" : "01.10.2023",
                 "praznik" : "Свети Евменије Гортински; света мученица Ариадна",
                 "vreme" : "9:00"
             },
-            {   "tip" : "Liturgija",
+            {   
+                "tip" : "Liturgija",
+                "dan":"1",
+                "nazivDana": "Ponedeljak",
                 "datum" : "01.10.2023",
                 "praznik" : "Свети Евменије Гортински; света мученица Ариадна",
                 "vreme" : "9:00"
             },
-            {   "tip" : "Liturgija",
-                "datum" : "01.10.2023",
-                "praznik" : "Свети Евменије Гортински; света мученица Ариадна",
-                "vreme" : "9:00"
-            },
-            {   "tip" : "Liturgija",
+            {   
+                "tip" : "Liturgija",
+                "dan":"1",
+                "nazivDana": "Ponedeljak",
                 "datum" : "01.10.2023",
                 "praznik" : "Свети Евменије Гортински; света мученица Ариадна",
                 "vreme" : "9:00"
